@@ -17,12 +17,12 @@
                 <height>65</height>
             </image>
             <item>
-                <title><![CDATA[強地震報告 6.8級 [北緯4.9,東經126.2] 印尼塔勞群島 (04:58 HKT 09/01/2024) ]]></title>
+                <title><![CDATA[強地震報告已取消 6.8級 [北緯4.9,東經126.2] 印尼塔勞群島 (04:58 HKT 09/01/2024) ]]></title>
                 <author>hkowm@hko.gov.hk (香港天文台)</author>
 		<link><![CDATA[http://openstreetmap.org/?mlat=4.9&mlon=126.2]]></link>
-                <description><![CDATA[地震: 2024-01-09 04:48HKT 6.8級 [北緯4.9,東經126.2] 印尼塔勞群島 <a href='http://openstreetmap.org/?mlat=4.9&amp;mlon=126.2'>http://openstreetmap.org/?mlat=4.9&mlon=126.2</a> ]]></description>
+                <description><![CDATA[地震已取消: 2024-01-09 04:48HKT 6.8級 [北緯4.9,東經126.2] 印尼塔勞群島 <a href='http://openstreetmap.org/?mlat=4.9&amp;mlon=126.2'>http://openstreetmap.org/?mlat=4.9&mlon=126.2</a> ]]></description>
                 <pubDate>Tue, 09 Jan 2024 04:58:00 +0800</pubDate>
-                <guid isPermaLink="false">202401090458地震速報</guid>
+                <guid isPermaLink="false">202401090458地震速報已取消</guid>
             </item>
         </channel>
     </rss>
